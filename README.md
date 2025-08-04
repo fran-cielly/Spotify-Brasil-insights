@@ -1,4 +1,4 @@
-# Como lançar uma musica de sucesso
+# Analise do Spotify: Como lançar uma musica de sucesso
 Data Insights da Música Brasileira  - Análise exploratória de dados de músicas brasileiras no Spotify com foco em tendências de sucesso.
 Se você fosse lançar uma música hoje no Brasil, como ela deveria ser para fazer sucesso?
 
